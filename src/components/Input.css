@@ -1,0 +1,27 @@
+.my-input {
+    background-color: rgb(215, 215, 215);
+    width: 301px;
+    height: 253px;
+    width: 70%;
+    float: right;
+    border: 1px solid grey;
+    bottom: 108px;
+    position: relative;
+}
+
+.input {
+    width: 90%;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 80px;
+
+}
+.box {
+    width: 100%;
+}
+.icon {
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+    cursor: pointer;
+}

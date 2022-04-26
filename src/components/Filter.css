@@ -1,0 +1,17 @@
+.wall {
+    background-color:rgb(215, 215, 215);
+    width: 30%;
+    height: 220px;
+}
+
+
+.search-panel {
+    width: 80%;
+    padding: 10px;
+    margin: 20px;
+    line-height: 15px;
+    border-radius: 80px;
+    font-size: 14px;
+    position: relative;
+    
+}
