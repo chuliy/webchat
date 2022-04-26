@@ -1,8 +1,8 @@
 {
-  "homepage": "chuliy.github.io/webchat",
+  "homepage": "https://chuliy.github.io/webchat",
   "name": "webchat",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.1.1",
     "@testing-library/jest-dom": "^5.16.4",
